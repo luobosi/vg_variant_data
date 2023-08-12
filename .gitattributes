@@ -1,0 +1,12 @@
+bs31.bam filter=lfs diff=lfs merge=lfs -text
+bs31.dist filter=lfs diff=lfs merge=lfs -text
+bs31.giraffe.gbz filter=lfs diff=lfs merge=lfs -text
+SRR11461738_1.fastq filter=lfs diff=lfs merge=lfs -text
+SRR11461738_2.fastq filter=lfs diff=lfs merge=lfs -text
+test.hapl filter=lfs diff=lfs merge=lfs -text
+bs31.min filter=lfs diff=lfs merge=lfs -text
+bs31.ri filter=lfs diff=lfs merge=lfs -text
+pggb_bs31_final.gfa filter=lfs diff=lfs merge=lfs -text
+bs31_really.bam filter=lfs diff=lfs merge=lfs -text
+kmc.txt filter=lfs diff=lfs merge=lfs -text
+testkmc.kff filter=lfs diff=lfs merge=lfs -text
